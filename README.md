@@ -22,12 +22,6 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Megha Komarraju's GitHub Stats" src="https://github-readme-stats.Megha Komarraju.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
 
 [project]:  
 [instagram]: https://instagram.com/meghakss  

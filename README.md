@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 </details>
 
-[project]:
-[instagram]: https://instagram.com/meghakss
+[project]:  
+[instagram]: https://instagram.com/meghakss  
 [linkedin]: https://linkedin.com/in/meghakomarraju
 

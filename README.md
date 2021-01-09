@@ -1,4 +1,4 @@
-### Hi there, I'm Megha Komarraju(Meh-gha) 👋
+### Hi there, I'm Megha Komarraju 👋
 
 <!--
 **Megha-Komarraju/Megha-Komarraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->

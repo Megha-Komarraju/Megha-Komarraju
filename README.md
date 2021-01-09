@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 
 
-[project]:  
+[project]: https://github.com/Megha-Komarraju/Data-Science-Salary-Estimator
 [instagram]: https://instagram.com/meghakss  
 [linkedin]: https://linkedin.com/in/meghakomarraju
 

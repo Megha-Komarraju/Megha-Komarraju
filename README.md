@@ -1,4 +1,4 @@
-### Hi there, I'm Megha Komarraju(Ma-gha) 👋
+### Hi there, I'm Megha Komarraju(Meh-gha) 👋
 
 <!--
 **Megha-Komarraju/Megha-Komarraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="Python" width="26px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F1525981%3Fs%3D280%26v%3D4&imgrefurl=https%3A%2F%2Fgithub.com%2Fpython&tbnid=Pp7i2K3KblEe3M&vet=12ahUKEwje4-Tau4_uAhUSA1kFHfXbBJ4QMygAegQIARAu..i&docid=W1-11cNSSyhn8M&w=280&h=280&q=python%20logo%20images%20to%20put%20on%20githu&ved=2ahUKEwje4-Tau4_uAhUSA1kFHfXbBJ4QMygAegQIARAu" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]

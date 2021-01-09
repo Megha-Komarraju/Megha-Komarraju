@@ -3,7 +3,7 @@
 <!--
 **Megha-Komarraju/Megha-Komarraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-## I am a tech and sport enthiuast, single child to my parents and an avid traveler.
+## I am a tech and sport enthusiast, single child to my parents and an avid traveler.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on[Data Science Salary Estimator Project][project]!

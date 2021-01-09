@@ -1,7 +1,8 @@
 ### Hi there, I'm Megha Komarraju(Ma-gha) 👋
 
 <!--
-**Megha-Komarraju/Megha-Komarraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Megha-Komarraju/Megha-Komarraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+
 ## I am a tech and sport enthiuast, single child to my parents and an avid traveler.
 Here are some ideas to get you started:
 

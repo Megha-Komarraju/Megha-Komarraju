@@ -22,13 +22,18 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 [<img align="left" alt="Python" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDUMvYcFSuhNT5-AyOaC-nyE4xE56lI7XC6A&usqp=CAU" />]
-[<img align="left" alt="R" width="50px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AR_logo.svg&psig=AOvVaw0nZgWlyfEU-FlayZqMc333&ust=1610303786027000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjKzpy_j-4CFQAAAAAdAAAAABAD" />]
+[<img align="left" alt="R" width="30px" src="https://cran.r-project.org/Rlogo.svg" />]
+[<img align="left" alt="Tableau" width="80px" src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" />]
+[<img align="left" alt="Power BI" width="50px" src="https://download.logo.wine/logo/Power_BI/Power_BI-Logo.wine.png" />]
+[<img align="left" alt="PyTorch" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" />]
+[<img align="left" alt="PySpark" width="50px" src="https://miro.medium.com/max/400/1*VNdaFCkls0gyJR0ddP1PCQ.png" />]
+[<img align="left" alt="Microsoft Excel" width="50px" src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 

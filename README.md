@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Data Science and travelling. Happy to share and help
 - 📫 How to reach me: LinkedIn and Email
 - 😄 Pronouns: She/her/hers
-- ⚡ Fun fact: I am a racquet sport fanatic and I love sleep!!
+- ⚡ Fun fact: I am a racquet sport fanatic, and I love to travel around the globe!!
 
 ### Connect with me:
 

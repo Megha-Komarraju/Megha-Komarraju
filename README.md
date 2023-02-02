@@ -6,7 +6,7 @@
 ## I am a tech and sport enthusiast,and an avid traveler.
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Data Science Salary Estimator Project][project]!
+- 🔭 I’m currently working on [Python Movie Correlation Project][project]!
 - 🌱 I’m currently learning Python hands-on and want to dive into creating a recommender system soon
 - 👯 I’m looking to collaborate with other Data Science enthusiasts and contributers
 - 💬 Ask me about Data Science and travelling. Happy to share and help

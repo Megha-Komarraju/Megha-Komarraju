@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 
 
-[project]: https://github.com/Megha-Komarraju/Data-Science-Salary-Estimator
+[project]: https://github.com/Megha-Komarraju/Personal_Projects/blob/main1/Python%20Movie%20Correlation%20Project.ipynb
 [instagram]: https://instagram.com/meghakss  
 [linkedin]: https://linkedin.com/in/meghakomarraju
 
